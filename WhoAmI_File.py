@@ -1,4 +1,6 @@
 
 
 def WhoAmI():
-    return('djr2132')
+    return('My name is Ming Cheng')
+
+
